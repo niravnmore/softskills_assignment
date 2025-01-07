@@ -198,3 +198,62 @@ Effective listening is accomplished with the help of multiple faculties of our b
 The sandwich technique can be implemented while denying someone. 
 First, you need to tell them politely you are able to understand their situation of problem. Next, you can say a clear no along with the reason of your denial. Further, you may provide the person with another alternative. 
 
+## Campus to Corporate
+
+### Transition from Campus to Corporate
+
+- It is a transformation of an individual from a student lifestyle to a lifestyle of a working professional.
+- It is about understanding the do's and dont's of a corporate lifestyle in order to gain success in a profession.
+
+### Skills to Emphasize Personal Brand
+
+- Establishing and promoting what you stand for.
+- It is important to make yourself differ from others in a better way.
+- Elements of personal branding that should be taken care of  
+        1. Etiquette  
+        2. Communication  
+        3. Body Language  
+        4. Dressing and Grooming  
+
+#### Etiquette essentials for your success
+
+**Social Etiquette**
+- Creating first impression
+- First impression may not be a last impression
+- First impression is definetly a lasting impression
+- Psycologically we are too busy with validating the first impression rather than evaluating the second impression
+- It takes a lot of efforts to change a first impression  
+
+**Phone Etiquette**
+- Promote yourself as a professional
+- Try to introduce yourself properly during a phone call
+- Watch your tone
+- Think before you say, you should be vaery clear what you want to say
+- If possible prepare your script beforehand to avoid thinking during the phone call about what to speak
+- Avoid any distractions  
+
+**Email Etiquette**  
+- 4C's for written communication
+1. Complete  
+2. Clear  
+3. Courteous and polite  
+4. Concise  
+
+**Dressing and Grooming**
+- You should always wear clothes appropriate for the place, situation and occasion.
+- Dressing inappropriately reflects poor manners
+- Dressing inappropriately shows you do not care about yourself
+- Dressing inappropriately also shows you are ignorant or arrogant
+- 4A's for getting ready for any place
+1. Appropriate - wear clothes appropriate for the place, situation and occasion
+2. Authentic - wear what suits you and displays your own attributes and reflects your identity
+3. Attractive - every thing should be in sync and organized
+4. Affordable - it should be within your affordable range
+
+**Body language**
+- Posture
+- Use of hands
+- Eye Contact
+- Gestures
+- More than half of what is understood is body language
+
