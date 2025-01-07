@@ -186,3 +186,15 @@ Effective listening is accomplished with the help of multiple faculties of our b
 
 10. **Teaches Others to Be Independent**  
     - Declining certain requests encourages others to find solutions on their own, fostering independence and self-reliance.  
+
+### 3C's of Assertive Communication
+
+1. Confidence - Have confidence in yourself while communicating even while saying 'no'.
+
+2. Clarity - Your message must be clear for the listener. It is important to phrase a sentence before saying it to ensure the meaning of the message is as intended.
+
+3. Control - Keep your control. Do not get washed away by emotions.
+
+The sandwich technique can be implemented while denying someone. 
+First, you need to tell them politely you are able to understand their situation of problem. Next, you can say a clear no along with the reason of your denial. Further, you may provide the person with another alternative. 
+
