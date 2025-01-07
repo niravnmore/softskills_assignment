@@ -338,3 +338,15 @@ First, you need to tell them politely you are able to understand their situation
 
 - Why do you want to  join their organization?
 - prepare these question thoroughly
+
+## Managing Impressions
+
+### Impression Management : Dressing as Per Role
+
+- It is important to give a noticable impression to all wherever we go
+- Dress to impress
+- It is called Appearance management
+- It determines the kind of response you receive from others
+- A well dressed person will gain most attention
+- It also determines a projection of a person's attitude
+- It is important to dress up as our roles and goals
