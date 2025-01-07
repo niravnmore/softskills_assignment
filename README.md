@@ -233,22 +233,22 @@ First, you need to tell them politely you are able to understand their situation
 - Avoid any distractions  
 
 **Email Etiquette**  
-- 4C's for written communication
-1. Complete  
-2. Clear  
-3. Courteous and polite  
-4. Concise  
+- 4C's for written communication  
+        1. Complete  
+        2. Clear  
+        3. Courteous and polite  
+        4. Concise  
 
 **Dressing and Grooming**
 - You should always wear clothes appropriate for the place, situation and occasion.
 - Dressing inappropriately reflects poor manners
 - Dressing inappropriately shows you do not care about yourself
 - Dressing inappropriately also shows you are ignorant or arrogant
-- 4A's for getting ready for any place
-1. Appropriate - wear clothes appropriate for the place, situation and occasion
-2. Authentic - wear what suits you and displays your own attributes and reflects your identity
-3. Attractive - every thing should be in sync and organized
-4. Affordable - it should be within your affordable range
+- 4A's for getting ready for any place  
+        1. Appropriate - wear clothes appropriate for the place, situation and occasion  
+        2. Authentic - wear what suits you and displays your own attributes and reflects your identity  
+        3. Attractive - every thing should be in sync and organized  
+        4. Affordable - it should be within your affordable range  
 
 **Body language**
 - Posture
@@ -257,3 +257,84 @@ First, you need to tell them politely you are able to understand their situation
 - Gestures
 - More than half of what is understood is body language
 
+## Managing Interviews
+
+### What is an Interview?
+
+- Interview is just a sampling process. 
+- It is a process of identifying an appropriate candidate for a particular job role
+- It is possible you might not get selected for a particular role so you should go and look out for another opportunity that suits you better.
+
+### Preparation before an Interview
+
+- Check for the background of the company for which you will be appearing for an interview.
+- Check what their industry domain is, or what the line of business is
+- Check what is the reputation of the company in its industry
+- Check the vision and mission of the company
+- If the information is not available online, you should ask the interview coordinator to provide further information about the company.
+- Ask if they are able to provide a ready made document containing the information your require
+- Ask them if they are able to provide any source from where you are able to gather more information about the company
+- Knowing the company well before interview will provide a very good first impression of yours, and show a professional image and it will be forwarded further by the interviewer
+- This will help you stand out from other candidates appearing for the interview
+- Carefully note down the logistics of the interview - date, time, place, whom to meet, designation of the person to meet
+
+### What to take with you for an interview
+
+- Carry multiple copies of your CV
+- Keep all your documents ready - certificates, marksheets, experience letters and any other accomplishments
+- Keep a folder containing all your documents
+- Keep originals as well as a couple of copies each
+- Keep the folder organised
+
+### What to wear in an interview
+
+- Wear formal clothes, with neutral colors, wear conservative clothes.
+- Wear comfortable clothes - 
+- Avoid fashionable clothes
+- Do not wear any bright colors or wild prints. Keep it as simple as you can.
+
+### During Interview
+
+- Always knock before opening a door
+- Seek permission before you enter
+- Walk with confidence
+- Do not sit until you are offered a seat
+- thank the interviewer after sitting
+- Sit straight on the chair
+- Do not lean forward or backwards on the chair and do no fidget
+- Try to sit with open legs
+- Stay confident during the interview
+- Maintain your posture
+- Maintain eye contact
+- If there are more than one person interviewing - rotate your eye contact periodically
+- Do not assume, always ask in case of doubts
+- Leave only when you are sure there are no more questions to ask
+- Ask for a feedback, if there is scope for an improvement
+- Thank the interviewer before walking towards the door
+- Gently close the door once you leave
+
+### After Interview
+
+- Make sure to note down any queries that you were not able to answer during the interview
+- If a feedback is provided, note it down and make sure to work on it
+
+### How to conduct in an Interview
+
+- Tell us something about yourself (3-4 mins)
+- Highlight your achivements that suits the current job needs
+- Highlight your affiliation with reputed and well known organizations
+- Avoid being excessively obsessed with dates
+- Show what you are good at
+- Be consistent in your responses
+- Say your full name when asked or during introduction
+- Name, Work experience, education, Skills and strengths, family, hobbies
+
+- Why should we hire you?
+- Reply with the help of strength we have
+- Do not confuse strenths with skills
+- Highlight accomplishment and achievements
+
+- Elaborate about your work experiences your academic assignments, your achievements, etc.
+
+- Why do you want to  join their organization?
+- prepare these question thoroughly
