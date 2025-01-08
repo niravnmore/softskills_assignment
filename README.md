@@ -429,5 +429,7 @@ First, you need to tell them politely that you are able to understand their situ
 - Summarize if needed.
 - Close the call warmly.
 
+```
 "Good manners will open doors that the best education cannot" - Clarence Thomas
+```
 
