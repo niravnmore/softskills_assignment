@@ -1,17 +1,17 @@
-# Softskills
+# Soft Skills
 
 ## Introduction to Soft Skills
 
-- Softskills are commonly known as character traits and interpersonal skills.  
-- Softskills play important role in professional career building.  
-- Some key aspects for softskills are managing professional communications, critical thinking, teamwork, work ethics, etc.
-- Hardskills deal with technical aspect of a profession while softskills deal with everything else.
-- Hardskills are easily quantifiable while it is not so easy to guage softskills of an individual.
+- Soft Skills are commonly known as character traits and interpersonal skills.  
+- Softskills play an important role in professional career building.  
+- Some key aspects for soft skills are managing professional communications, critical thinking, teamwork, work ethics, etc.
+- Hard Skills deal with technical aspects of a profession while soft skills deal with everything else.
+- Hard Skills are easily quantifiable while it is not so easy to gauge soft skills of an individual.
 
 ### What is communication?
 
-Communication is a process of giving, receiving and sharing of information with one or more individuals.
-In a professional career, we will require to communicate with a lot of stakeholders on a range of topics to ensure that our collective efforts are beneficial for everybody.
+Communication is a process of giving, receiving and sharing information with one or more individuals.
+In a professional career, we will be required to communicate with a lot of stakeholders on a range of topics to ensure that our collective efforts are beneficial for everybody.
 
 ## Effective Communication
 
@@ -28,7 +28,7 @@ There are four types of communication; They are
 - Written Communication
 - Listening (understanding the message)
 
-All above communication can be further divided into formal and informal communications. We will be focusing mainly on formal type of communication that can help us with our professional requirements.
+All above communication can be further divided into formal and informal communications. We will be focusing mainly on formal types of communication that can help us with our professional requirements.
 
 ### Elements of Verbal Communication
 
@@ -77,7 +77,7 @@ There is a major difference between listening and hearing.
 
 ### Barriers to Listening
 
-There are several barriers to listening 
+There are several barriers to listening  
 - Jumping to conclusion
 - disturbed or overwhelmed by emotions
 - biased perception
@@ -88,17 +88,17 @@ There are several barriers to listening
 ### Effective Listening
 
 Effective listening is accomplished with the help of multiple faculties of our body sequentially - ears, eyes, mind, heart.
-- Ears - We are able to know the content and tone of the message. Also the intent of the message can be derieved from the stress on words, volume and pace of the delivery. 
+- Ears - We are able to know the content and tone of the message. Also the intent of the message can be derived from the stress on words, volume and pace of the delivery.
 - Eyes - We are able to observe the body language of the individual and make a fair image of the person's character and confidence level.
 - Mind - True sense of the message can be made from the inputs received from ears and eyes.
-- Heart - Emotional connect to the message is established through our heart and emotions.
+- Heart - Emotional connection to the message is established through our heart and emotions.
 
 ### Written Communication
 
 - In formal communication, there are certain predefined norms that should be observed to display professionalism.  
-- Written communication can be referred multiple times and so extra caution should be taken to make sure the sent message is precise and accurate.  
-- Written communication is used in form of letters, emails and chats.  
-- In certain streams it is important to maintain an accurate and updated knowledge base for references which requires written communication skills. 
+- Written communication can be referred to multiple times and so extra caution should be taken to make sure the sent message is precise and accurate.  
+- Written communication is used in the form of letters, emails and chats.  
+- In certain streams it is important to maintain an accurate and updated knowledge base for references which requires written communication skills.
 - For emails, we should follow below structure  
 
 ```
@@ -110,9 +110,9 @@ Effective listening is accomplished with the help of multiple faculties of our b
 <--Signing-->
 ```
 
-- Proper puctuation should be placed where required.
+- Proper punctuation should be placed where required.
 - It is important to ensure written communication is free of any grammatical and punctuation errors.
-- It is a best practice to proof read any kind of written communication atleast once.
+- It is a best practice to proofread any kind of written communication at least once.
 
 ## Assertive and Aggressive Communication  
 
@@ -187,7 +187,7 @@ Effective listening is accomplished with the help of multiple faculties of our b
 10. **Teaches Others to Be Independent**  
     - Declining certain requests encourages others to find solutions on their own, fostering independence and self-reliance.  
 
-### 3C's of Assertive Communication
+### 3 C's of Assertive Communication
 
 1. Confidence - Have confidence in yourself while communicating even while saying 'no'.
 
@@ -195,15 +195,15 @@ Effective listening is accomplished with the help of multiple faculties of our b
 
 3. Control - Keep your control. Do not get washed away by emotions.
 
-The sandwich technique can be implemented while denying someone. 
-First, you need to tell them politely you are able to understand their situation of problem. Next, you can say a clear no along with the reason of your denial. Further, you may provide the person with another alternative. 
+The sandwich technique can be implemented while denying someone.
+First, you need to tell them politely that you are able to understand their situation. Next, you can say a clear no along with the reason for your denial. Further, you may provide the person with another alternative.
 
 ## Campus to Corporate
 
 ### Transition from Campus to Corporate
 
 - It is a transformation of an individual from a student lifestyle to a lifestyle of a working professional.
-- It is about understanding the do's and dont's of a corporate lifestyle in order to gain success in a profession.
+- It is about understanding the do's and don'ts of a corporate lifestyle in order to gain success in a profession.
 
 ### Skills to Emphasize Personal Brand
 
@@ -220,20 +220,20 @@ First, you need to tell them politely you are able to understand their situation
 **Social Etiquette**
 - Creating first impression
 - First impression may not be a last impression
-- First impression is definetly a lasting impression
-- Psycologically we are too busy with validating the first impression rather than evaluating the second impression
+- First impression is definitely a lasting impression
+- Psychologically we are too busy with validating the first impression rather than evaluating the second impression
 - It takes a lot of efforts to change a first impression  
 
 **Phone Etiquette**
 - Promote yourself as a professional
 - Try to introduce yourself properly during a phone call
 - Watch your tone
-- Think before you say, you should be vaery clear what you want to say
+- Think before you say, you should be very clear what you want to say
 - If possible prepare your script beforehand to avoid thinking during the phone call about what to speak
 - Avoid any distractions  
 
 **Email Etiquette**  
-- 4C's for written communication  
+- 4 C's for written communication  
         1. Complete  
         2. Clear  
         3. Courteous and polite  
@@ -247,7 +247,7 @@ First, you need to tell them politely you are able to understand their situation
 - 4A's for getting ready for any place  
         1. Appropriate - wear clothes appropriate for the place, situation and occasion  
         2. Authentic - wear what suits you and displays your own attributes and reflects your identity  
-        3. Attractive - every thing should be in sync and organized  
+        3. Attractive - everything should be in sync and organized  
         4. Affordable - it should be within your affordable range  
 
 **Body language**
@@ -261,7 +261,7 @@ First, you need to tell them politely you are able to understand their situation
 
 ### What is an Interview?
 
-- Interview is just a sampling process. 
+- Interviews are just a sampling process.
 - It is a process of identifying an appropriate candidate for a particular job role
 - It is possible you might not get selected for a particular role so you should go and look out for another opportunity that suits you better.
 
@@ -289,7 +289,7 @@ First, you need to tell them politely you are able to understand their situation
 ### What to wear in an interview
 
 - Wear formal clothes, with neutral colors, wear conservative clothes.
-- Wear comfortable clothes - 
+- Wear comfortable clothes -
 - Avoid fashionable clothes
 - Do not wear any bright colors or wild prints. Keep it as simple as you can.
 
@@ -321,7 +321,7 @@ First, you need to tell them politely you are able to understand their situation
 ### How to conduct in an Interview
 
 - Tell us something about yourself (3-4 mins)
-- Highlight your achivements that suits the current job needs
+- Highlight your achievements that suits the current job needs
 - Highlight your affiliation with reputed and well known organizations
 - Avoid being excessively obsessed with dates
 - Show what you are good at
@@ -331,10 +331,10 @@ First, you need to tell them politely you are able to understand their situation
 
 - Why should we hire you?
 - Reply with the help of strength we have
-- Do not confuse strenths with skills
+- Do not confuse strengths with skills
 - Highlight accomplishment and achievements
 
-- Elaborate about your work experiences your academic assignments, your achievements, etc.
+- Elaborate about your work experiences, your academic assignments, your achievements, etc.
 
 - Why do you want to  join their organization?
 - prepare these question thoroughly
@@ -343,10 +343,43 @@ First, you need to tell them politely you are able to understand their situation
 
 ### Impression Management : Dressing as Per Role
 
-- It is important to give a noticable impression to all wherever we go
+- It is important to give a noticeable impression to all wherever we go
 - Dress to impress
 - It is called Appearance management
 - It determines the kind of response you receive from others
 - A well dressed person will gain most attention
 - It also determines a projection of a person's attitude
 - It is important to dress up as our roles and goals
+- Dressing inappropriately gets an impression that the person is arrogant or irresponsible
+- Your role should be relatable with your clothing and attitude
+- It is necessary to be authentic in your dressing.
+
+### How to create a first impression?
+
+- First impression gets automatically created in our minds within the first few seconds of an encounter
+- It is not necessary for the person to say anything and still a first impression is imprinted.
+- It is a natural tendency of human brain to form a first impression, consciously or unconsciously, and judge a lot of information out of it within a first few second such as
+   - Economic level
+   - Education level
+   - Social Position
+   - Level of sophistication
+   - Level of success
+- Also, based on above information, the brain automatically decides a lot of things about a person such as
+   - Trustworthiness
+   - Compassion
+   - Reliability
+   - Intelligence
+   - Capability
+   - Humility
+   - Friendliness
+   - Confidence
+- First impression and the information formed by it is a lasting one.
+- It is always very hard to change a first impression, negative or positive.
+- If basic ingredients of first impression (1) Dressing and grooming, (2) Body language and (3) Etiquette, are managed correctly, it is very easy to have a good impression wherever you go.
+- Etiquette consists of handshake, a smile, greeting, posture(standing or sitting), open/close the door, elevator etiquette, offering a chair.
+- Every move matters.
+
+
+
+
+
