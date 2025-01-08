@@ -321,23 +321,20 @@ First, you need to tell them politely that you are able to understand their situ
 ### How to conduct in an Interview
 
 - Tell us something about yourself (3-4 mins)
-- Highlight your achievements that suits the current job needs
-- Highlight your affiliation with reputed and well known organizations
-- Avoid being excessively obsessed with dates
-- Show what you are good at
-- Be consistent in your responses
-- Say your full name when asked or during introduction
-- Name, Work experience, education, Skills and strengths, family, hobbies
-
-- Why should we hire you?
-- Reply with the help of strength we have
-- Do not confuse strengths with skills
-- Highlight accomplishment and achievements
-
-- Elaborate about your work experiences, your academic assignments, your achievements, etc.
-
+   - Highlight your achievements that suits the current job needs
+   - Highlight your affiliation with reputed and well known organizations
+   - Avoid being excessively obsessed with dates
+   - Show what you are good at
+   - Be consistent in your responses
+   - Say your full name when asked or during introduction
+   - Sequence should be - Name, Work experience, education, Skills and strengths, family, hobbies.
+- Why should we hire you?  
+   - Reply with the help of strength we have  
+   - Do not confuse strengths with skills  
+   - Highlight accomplishment and achievements  
+   - Elaborate about your work experiences, your academic assignments, your achievements, etc.
 - Why do you want to  join their organization?
-- prepare these question thoroughly
+   - prepare this question thoroughly
 
 ## Managing Impressions
 
