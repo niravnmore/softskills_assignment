@@ -433,3 +433,81 @@ First, you need to tell them politely that you are able to understand their situ
 "Good manners will open doors that the best education cannot" - Clarence Thomas
 ```
 
+## Managing Feedback
+
+### Understanding Importance of Feedback
+
+**What is feedback**
+- In engineering language, it means changing the machine setting for optimal performance.
+- Feedback doesn't mean that what is currently going on is bad.
+- Feedback means there is a scope of improvement.  
+- It is aimed at achieving optimal performance.
+- Feedback is based on current functioning.
+- It is information that is shared as a reaction.
+- It can be considered as a response to our current person, task, performance or experience.
+- Feedback is provided with an aim of improvement.
+
+**What are the Barriers of Feedback?**
+- Doubts or negative feelings
+- Psychologically, we are always in a denial mode. In that case, the feedback will not reach you.
+- Feeling that there is no scope of improvement.
+- We might have had bad experiences with feedback.
+- Preconceived notion that feedback is always negative.
+- Feedback is constructive. It should always aim for improvement.
+
+**Features of Feedback**
+- Feedback should always be about a specific activity.
+- It should be limited in scope.
+- It is not a comprehensive check-up.
+- Remember the big picture and put the feedback in context.
+- Feedback is an ongoing process.
+- Feedback must aim at corrective actions and performance improvement.
+
+**Why the feedback?**
+- Feedback is an important part of the learning process.
+- It triggers the learning curve.
+- Feedback is essential at the right interval at a right time for improvement.
+- Feedback helps us to come back on track.
+- It helps us in developing relationships at the workplace.
+- Feedback is used in rating and ranking as well.
+- Benchmark comparison is a kind of feedback.
+
+### Art of Giving and receiving feedback
+
+**Things to be taken care of while giving feedback**
+- Everywhere we can give feedback to people.
+- Where you feel it is necessary, please give a feedback.
+- Detach yourself from the process.
+- Make sure that you are not stressed while giving a feedback.
+- Make sure you do not look stressed while giving a feedback.
+- Make the receiver comfortable.
+- Handle it delicately.
+- Do not have a reason other than performance improvement.
+- Start by counting positive achievements. (sandwich approach)
+- Feedback should only be given when a person knows how to provide a feedback.
+- It should not feel rude for anyone when giving a feedback.
+- Do not be overevaluative.
+- Have a positive parting shot - have a follow-up aligned. (This improves effectiveness of the feedback)
+- Please choose a convenient place and time for the feedback.
+- Please confine yourself to a specific issue.
+- Avoid potential interruptions.
+- Chain down your emotions.
+
+**Things to be taken care of while receiving feedback**
+- Listen Actively.
+- Do not get defensive or be in a Denial Mode.
+- Learn to handle criticism and compliments.
+- Ask for a suggestive course of action.
+- Think yourself - how can you get better.
+- Spring into action.
+- Be the machine with the fine tuned settings.
+
+## Skills for New Managers
+
+### Soft Skills for New Managers
+
+**Delegation**
+- Managers cannot do everything on their own.
+- Managers are supposed to get work done from others.
+- Managers are responsible for developing their employees.
+- 
