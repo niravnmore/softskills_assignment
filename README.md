@@ -386,11 +386,11 @@ First, you need to tell them politely that you are able to understand their situ
 **What is Etiquette?**
 - Etiquette is a formal set of rules or a code of conduct that is followed in professional or social life.
 - Our behaviour or mannerism changes as per the situation and as per the company we have. It is an automatic process.
-- It is important to present ourself at office in a certain way.
+- It is important to present yourself at the office in a certain way.
 
 **WorkStation Etiquette**
 - Workstation should remain clean and organised.
-- Make use of Dustbin.
+- Make use of the Dustbin.
 - Make sure stationary items are kept at proper place.
 - Restrict to official phone calls.
 - Do not disturb your neighbours.
@@ -399,24 +399,24 @@ First, you need to tell them politely that you are able to understand their situ
 - Avoid too many personal belongings.
 
 **Mobile Etiquette**
-- Keep ringer and notification volume low.
+- Keep the ringer and notification volume low.
 - Do not use embarrassing ringtones.
-- Differentiat important calls from time wasters.
+- Differentiate important calls from time wasters.
 - Use a breakout area for personal calls.
 - Restroom/washroom is not a place for personal calls.
 - Do not multitask with smart phones for personal reasons.
 
 **Meeting Etiquette**
 - Respect the time.
-- Make sure the agenda of meeting is clear beforehand.
+- Make sure the agenda of the meeting is clear beforehand.
 - Come well prepared for a meeting.
-- Carry a notepad and pen always for a meeting, or ipad/laptop for notes.
+- Carry a notepad and pen always for a meeting, or an ipad/laptop for notes.
 - Carry a laptop if needed.
 - Interrupt mindfully.
-- Abstain from multitasking with your phone or laptop during meeting.
+- Abstain from multitasking with your phone or laptop during meetings.
 - Ask questions relevant to the agenda. Always ask in case of any doubts.
 - Pay attention to the meeting.
-- Do not distract other with your impatience.
+- Do not distract others with your impatience.
 - Make a list of your action items.
 
 **Conference Call Etiquette**
