@@ -510,4 +510,59 @@ First, you need to tell them politely that you are able to understand their situ
 - Managers cannot do everything on their own.
 - Managers are supposed to get work done from others.
 - Managers are responsible for developing their employees.
-- 
+- Task of the manager is to develop people to do the job.
+- A new manager often forgets this.
+
+**What is Delegation**
+- Delegation is assigning a task to a person, along with full authority responsibility as well as accountability for results.
+- It is important to understand the importance of delegation for new managers. 
+- Delegation is not just assigning the task, it is also to ensure that the task is been done, delivered on time, and meeting all expectations.
+- If the task is to be done over a long period of time, checks at regular intervals are required to make sure the task is on its projected timeline.
+- A manager has to decide if a task is suitable for delegation or not.
+
+**Importance of Delegation**
+- Delegation is an art.
+- There is an upside to delegation.
+- Employees become happier.
+- Employees become more productive.
+- A single person can provide a specifc amount of output but this output will always remain less than the amount of output provided by a team.
+- Delegation provides you an option to get high amount of work from a team with same quality as a skilled individual.
+- It is important to understand the mindset of the team members before delegating tasks to them.
+- The skill-will matrix can be employed to know what would be the best approach to get an output depending on their working skills and will to carry forward the task.
+- High Skill, Low Will - Excite, motivate, improve will
+- Low Skill, Low Will - provide direction with specific steps
+- Low Skill, High Will - provide guidance, improve skills
+- High Skill, High Will - This is a proper candidate for delegation.
+- To get maximum output from a team, we need to ensure that all members fall in the high skill high will category.
+- Identify in which quadrant your team members are and work towards bringing them all in the high skill high will quadrant.
+
+```
+"If you delegate authority, you will build leaders." - John Maxwell
+```
+
+###  Importance of Creating Trust and accountability
+
+- Delegation is incomplete without passing on accountability and responsibility of tasks.
+- It is important to trust the person while delegating a task.
+- When we base trust in a person, that person automatically feels motivated.
+- The person gets a reason to work harder to prove himself.
+- There is a constant motivation to get better.
+
+**Accountability - full responsibility**
+
+- When work is assigned to someone the person should be responsible for completion of the task.
+- The assignee must also be held accountable for results.
+
+**How can we delegate better?**
+- Set clear expectations.
+- Keep a check on things.
+- Continuous monitor and track performance.
+- Provide guidance wherever needed.
+- Delegate the right things.
+- Check your attitude while you delegate.
+- Understand the skill level of employees while delegating.
+- Plan proper feedback sessions periodically.
+
+```
+"If something can be done 80% as well by someone else, delegate." - John Maxwell
+```
