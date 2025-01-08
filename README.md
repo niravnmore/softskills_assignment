@@ -625,7 +625,8 @@ Decide:
 **Create Win-Win Situations**
 - It is a about the mind set we carry
 
-**Resolving Conflicts **
+**Resolving Conflicts**
+
 - Collaborating: Satisfying our needs and satisfying the others needs
 - Competing: I’m competing only my needs not others, when we competing only one person is win
 - Compromise: It is between satisfying our needs and others needs, when we compromise both are win
