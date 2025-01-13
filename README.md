@@ -604,32 +604,35 @@ Decide:
 - Negotiation is a discussion between two parties.
 - Reason for discussion is to find a solution.
 - Purpose to reach a joint agreement about differing opinions.
-- Conflicts are inevitable and they arise because of difference in opinion, values and goals. 
+- Conflicts are inevitable, and they arise because of difference in opinion, values and goals. 
 - Foundation of negotiation is the willingness to work towards a solution.
-- Negotiation helps to shapes relationships 
+- Negotiation helps to shape relationships 
 - Negotiations is successful when - both parties recognize the value of relationships and want to continue it.
 - Both parties show consideration for each other.
-- Do not focus on person, Look at the situation – price, salary.
+- While negotiating the focus should be on the situation rather than on the involved individual/s.
 - Work together with a positive intent
 - Mindset needs to be positive
 
 **Myths about Negotiation**
-- There is a winner and loser- it is not about winning and loosing 
-- There is not necessary always a conflict 
-- A good negotiator could be a person is intelligent- could be a person have a lot of common sense – could be a emotional 
-- It is not a cheap
+- There is a winner and loser - it is not about winning and loosing 
+- Negotiations are required only at times of a conflict - negotiations can be done to avoid future conflicts or avoid certain bad situations.
+- A good negotiator is a manipulator - a good negotiation can be managed with the help of proper preparation, intelligence, common sense, emotions, with a sane mindset that see betterment of everyone.
+- It is cheap - if it is logical you should always negotiate.
 
-**Create Win-Win Situations**
-- It is a about the mind set we carry
+### Create Win-Win Situations
+
+- It is about thinking mutual benefit of 
+- It is about the mindset we carry
 
 **Resolving Conflicts**
 
 - Collaborating: Satisfying our needs and satisfying the others needs
-- Competing: I’m competing only my needs not others, when we competing only one person is win
-- Compromise: It is between satisfying our needs and others needs, when we compromise both are win
-- A mix of both- Ex. Price bargaining – you want to lower it as far as possible, but also want the deal to close too.
+- Competing: I’m competing only my needs not others, when we compete only one person will be winning.  
+- Compromise: It is between satisfying our needs and others needs, when we compromise both are winning.  
+- A mix of both - Ex. Price bargaining – you want to lower it as far as possible, but also want the deal to close too.  
 
 **Key to Create a Win-Win Situation**
+
 - Focus on win-win approach
 - Have consideration for the other side
 - This isn’t your last interaction 
